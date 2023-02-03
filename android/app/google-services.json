@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864293443837",
+    "project_id": "book-store-347ad",
+    "storage_bucket": "book-store-347ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864293443837:android:6e36217ae342c9c582c694",
+        "android_client_info": {
+          "package_name": "com.mostafa.book_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864293443837-gev0o2johivkbn7lo8pbvv8ltgtbmtan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnRxBiODOpsyjjRWVFuFKtkfThmo0NzVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864293443837-gev0o2johivkbn7lo8pbvv8ltgtbmtan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
